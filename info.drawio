@@ -10,11 +10,55 @@
         <mxCell id="_VCRK9TZy5Ek2TkXijl9-17" value="&lt;h1 style=&quot;&quot;&gt;&lt;i&gt;&lt;font face=&quot;Courier New&quot;&gt;Regras Rápidas:&lt;/font&gt;&lt;/i&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Courier New&quot;&gt;&lt;i&gt;1. Comece no início.&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Courier New&quot;&gt;&lt;i&gt;2. Escolha entre o Caminho A(Floresta) ou Caminho B(Cidade).&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;i style=&quot;&quot;&gt;3&lt;font style=&quot;&quot;&gt;. Em cada caminho aparece uma opção - escolha-a e leia o resultado final.&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;i style=&quot;&quot;&gt;4. Quer ir de novo? Retorne ao início e tente o outro caminho&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
           <mxGeometry x="940" y="10" width="350" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="mkVclGa40uVxHAAeHr30-2" value="Text" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="520" width="60" height="30" as="geometry" />
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5gC-2j33uwRF3Fp86BlJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="5gC-2j33uwRF3Fp86BlJ-1" value="&lt;h1&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 27px;&quot;&gt;~Início~&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Courier New&quot;&gt;Você adentra árvores altas; o ar tem cheiro de musgo. Sons sussuram. No centro de uma clareira há um pedestal com um pequeno espelho e um galho prateado(parece uma chave). UM espírito flutuae diz:&quot;&lt;i&gt;Mostre-me um sinal de confiança&lt;/i&gt;.&quot;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5gC-2j33uwRF3Fp86BlJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5gC-2j33uwRF3Fp86BlJ-1" value="&lt;h1&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 27px;&quot;&gt;~Início~&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Courier New&quot;&gt;Você adentra árvores altas; o ar tem cheiro de musgo. Sons sussuram. No centro de uma clareira há um pedestal com um pequeno espelho e um galho prateado(parece uma chave). UM espírito flutuae diz:&quot;&lt;i&gt;Mostre-me um sinal de confiança&lt;/i&gt;.&quot;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="70" y="140" width="723" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g7mnBOEkdUr93tF3x3-Z-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-5" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Caminho A- Floresta das Vozes:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Você adentra árvores altas; o ar&amp;nbsp; tem cheiro de musgo. Sons sussurram. No centro de uma clareira há um pedestal com um pequeno espelho e um galho prateado(parece uma chave). Um espírito flutua e diz: &quot; Mostre-me um sinal de confiança.&quot;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="320" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Caminho B- Cidade das Lanternas:&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Você chega á cidade. As ruas brilham com luzes coloridas e vozes alegres. Em uma loja antiga, um&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="320" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g7mnBOEkdUr93tF3x3-Z-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="840" />
+              <mxPoint x="100" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g7mnBOEkdUr93tF3x3-Z-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-11" value="&lt;h3&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Opções:&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="g7mnBOEkdUr93tF3x3-Z-11" target="g7mnBOEkdUr93tF3x3-Z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-23" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Courier New&quot;&gt;1. Deixar o espelho como sinal de confiança&lt;/font&gt;." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-26" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Courier New&quot;&gt;2. Pegar o galho e fugir com ambos os objetos.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="880" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
