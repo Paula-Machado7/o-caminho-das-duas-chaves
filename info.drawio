@@ -20,7 +20,7 @@
             <mxPoint x="680" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5gC-2j33uwRF3Fp86BlJ-1" value="&lt;h1&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 27px;&quot;&gt;~Início~&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Courier New&quot;&gt;Você adentra árvores altas; o ar tem cheiro de musgo. Sons sussuram. No centro de uma clareira há um pedestal com um pequeno espelho e um galho prateado(parece uma chave). UM espírito flutuae diz:&quot;&lt;i&gt;Mostre-me um sinal de confiança&lt;/i&gt;.&quot;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="5gC-2j33uwRF3Fp86BlJ-1" value="&lt;h1&gt;&lt;font face=&quot;Courier New&quot; style=&quot;font-size: 27px;&quot;&gt;~Início~&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="70" y="140" width="723" height="310" as="geometry" />
         </mxCell>
         <mxCell id="g7mnBOEkdUr93tF3x3-Z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g7mnBOEkdUr93tF3x3-Z-5">
@@ -28,10 +28,10 @@
             <mxPoint x="200" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g7mnBOEkdUr93tF3x3-Z-5" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Caminho A- Floresta das Vozes:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Você adentra árvores altas; o ar&amp;nbsp; tem cheiro de musgo. Sons sussurram. No centro de uma clareira há um pedestal com um pequeno espelho e um galho prateado(parece uma chave). Um espírito flutua e diz: &quot; Mostre-me um sinal de confiança.&quot;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-5" value="&lt;h1&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Caminho A- Floresta das Vozes:&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Você adentra árvores altas; o ar&amp;nbsp; tem cheiro de musgo. Sons sussurram. No centro de uma clareira há um pedestal com um pequeno espelho e um galho prateado(parece uma chave). Um espírito flutua e diz: &lt;i&gt;&quot; Mostre-me um sinal de confiança.&quot;&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="510" width="320" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="g7mnBOEkdUr93tF3x3-Z-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Caminho B- Cidade das Lanternas:&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Você chega á cidade. As ruas brilham com luzes coloridas e vozes alegres. Em uma loja antiga, um&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="g7mnBOEkdUr93tF3x3-Z-7" value="&lt;h3 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 21px;&quot;&gt;Caminho B- Cidade das Lanternas:&lt;/font&gt;&lt;/h3&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;Você chega á cidade. As ruas brilham com luzes coloridas e vozes alegres. Em uma loja antiga, um comerciante misterioso oferece uma caixa trancada. &quot;Ela guarda o segredo que você busca&quot; diz ele. &lt;i&gt;&quot;Mas toda chave exige um preço.&quot;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="510" width="320" height="230" as="geometry" />
         </mxCell>
         <mxCell id="g7mnBOEkdUr93tF3x3-Z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g7mnBOEkdUr93tF3x3-Z-11">
